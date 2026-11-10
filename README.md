@@ -50,7 +50,7 @@ Visualization through Pie Chart.
 Displays the distribution of orders across different regions.
 Helps identify regional order patterns.
 
-Top 5 Most Ordered Products
+2. Top 5 Most Ordered Products
 
 Visualization through Clustered Column Chart.
 Displays the five most frequently ordered products.
